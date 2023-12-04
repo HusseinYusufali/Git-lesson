@@ -2,6 +2,6 @@
 
 ## Shopping List
 
-    [ ] Milk
-    [ ] Flour 
-    [ ] Sugar 
+    [x] Milk
+    [x] Flour 
+    [x] Sugar 
